@@ -4,4 +4,4 @@ In this project, we aim at improving the robustness of generative adversarial ne
 
 ## Getting Started
 
-The codes will be online in January 2019.
+This work has been published on Journal of Computational Physics (https://doi.org/10.1016/j.jcp.2019.109209), and the codes will be online soon.
